@@ -34,9 +34,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  | Done ✅ |
 | [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  | Done ✅ |
 | [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  | Done ✅ |
-| [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
+| [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  | Done ✅ |
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  | Done ✅ |
-| [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |
+| [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  | Done ✅ |
 | [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  | Done ✅ |
 | [Missing Number](https://leetcode.com/problems/missing-number/)  |  | Done ✅ |
 
