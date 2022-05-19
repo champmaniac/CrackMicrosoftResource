@@ -52,12 +52,12 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Regular Expression Matching]( https://leetcode.com/problems/regular-expression-matching/)  |  |  |
 | [Clone a directed graph](https://leetcode.com/problems/clone-graph/)  |  |  |
 | [Closest Meeting Point]( https://www.educative.io/m/closest-meeting-point) |  |  |
-| [Search 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix//) |  |  |
+| [Search 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix//) |  | Done ✅ |
 | [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  |  |  |
-| [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  |  |  |
-| [Majority Element]( https://leetcode.com/problems/majority-element/)  |  |  |
-| [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  |  |
-| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |  |  |
+| [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  |  | Done ✅ |
+| [Majority Element]( https://leetcode.com/problems/majority-element/)  |  | Done ✅ |
+| [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  | Done ✅ |
+| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |  | Done ✅ |
 
 ---
 <br>
